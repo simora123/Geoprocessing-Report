@@ -1,4 +1,4 @@
-import json, os, uuid, collections, arcpy, PyPDF2
+import json, os, uuid, collections, arcpy
 
 arcpy.env.overwriteOutput = True
 
