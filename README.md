@@ -10,7 +10,7 @@ Geoprocessing Report Steps -
 \
 5- Copy Geoprocessing_Report.tbx to a destinated folder. Open ArcCatolog.\
 \
-6- Open up Create_Geoprocessing_Report Script Properties. Under Source, change the Script File Path to where you saved Geoprocessing_Report.py\
+6- Under the Geoprocessing_Report.tbx, open up Create_Geoprocessing_Report Script Properties. Under Source, change the Script File Path to where you saved Geoprocessing_Report.py\
 \
 7- Test run the Create_Geoprocessing_Report Script. The script is designed to look for 13-digit Parcel Numbers. To change this, you will need to change the Parcel_Select layer's source in A4Landscape2.mxd. You will need to update the Data Driven Pages in the mxd and the Data Driven texts elements in the layout as well.\
 \
