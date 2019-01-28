@@ -14,6 +14,8 @@ Geoprocessing Report Steps -
 \
 7- Test run the Create_Geoprocessing_Report Script. The script is designed to look for 13-digit Parcel Numbers. To change this, you will need to change the Parcel_Select layer's source in A4Landscape2.mxd. You will need to update the Data Driven Pages in the mxd and the Data Driven texts elements in the layout as well.\
 \
-8- Once you are satified with your results, publish this as a geoprocessing service.
+8- Once you are satified with your results, publish this as a geoprocessing service.\
+\
+Any questions, feel free to contact me at 717-771-9870(ex.1724) or jsimora@ycpc.org
 
 
